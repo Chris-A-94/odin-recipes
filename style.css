@@ -1,0 +1,42 @@
+h3,h2{
+    color:grey;
+}
+
+
+.boton{
+    background-color:aqua;
+    color:white;
+    size:12px;
+    text-align:center;
+}
+
+.img{
+    width:500px;
+    height:auto;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.title{
+    text-align: center;
+    background-color: grey;
+    color:blue;
+}
+
+.main.img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+   
+}
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#dos{
+    text-align: center;
+}
+#tres{
+    text-align: end;
+}
