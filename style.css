@@ -4,10 +4,11 @@ h3,h2{
 
 
 .boton{
-    background-color:aqua;
-    color:white;
+    background-color:white;
+    color:black;
     size:12px;
     text-align:center;
+    font-weight:bold;
 }
 
 .img{
@@ -32,6 +33,7 @@ h3,h2{
 
 body{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:RGB(173,216,230);
 }
 
 #dos{
