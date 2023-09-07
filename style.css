@@ -28,17 +28,25 @@ h3,h2{
     display:block;
     margin-left:auto;
     margin-right:auto;
-   
+    margin-bottom: 10px;   
 }
 
 body{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:RGB(173,216,230);
+    padding:0%;
+    margin:0%;
 }
 
 #dos{
-    text-align: center;
+    margin-left:500px;
 }
 #tres{
-    text-align: end;
+    margin-left:500px;
+    margin-right:98px;    
 }
+
+.item{
+    background-color:aqua;
+}
+
